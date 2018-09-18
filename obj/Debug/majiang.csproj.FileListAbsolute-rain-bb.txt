@@ -1,0 +1,13 @@
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\bin\Debug\majiang.exe.config
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\bin\Debug\majiang.exe
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\bin\Debug\majiang.pdb
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.csprojResolveAssemblyReference.cache
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.majiang.resources
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.Properties.Resources.resources
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.csproj.GenerateResource.Cache
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.exe
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.pdb
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\bin\Debug\majiang.exe.manifest
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\bin\Debug\majiang.application
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.exe.manifest
+C:\Users\rain\OneDrive\娱乐\majiang\majiang\obj\Debug\majiang.application

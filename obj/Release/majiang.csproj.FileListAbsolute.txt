@@ -1,0 +1,8 @@
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\bin\Release\majiang.exe.config
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\bin\Release\majiang.exe
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\bin\Release\majiang.pdb
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\obj\Release\majiang.majiang.resources
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\obj\Release\majiang.Properties.Resources.resources
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\obj\Release\majiang.csproj.GenerateResource.Cache
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\obj\Release\majiang.exe
+C:\Users\kuu\OneDrive\娱乐\majiang\majiang\obj\Release\majiang.pdb
